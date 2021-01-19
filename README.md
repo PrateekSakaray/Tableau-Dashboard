@@ -32,4 +32,4 @@ for a proper plot.
 - Interpolation rule was applied across the dataset to fill the null values in the dataset.
 
 ## Visualization
-
+![alt text](https://github.com/PrateekSakaray/Tableau-Dashboard)
